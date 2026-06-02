@@ -1,8 +1,9 @@
-# Hi there 👋, I'm Jai  
+# Hi there 👋, I'm Jai Sumanth Nekkanti  
 
 ## 🚀 About Me
-I'm a **MERN Stack Developer** and an **AI/ML Enthusiast**.  
-Currently exploring how to bridge **full-stack development** with **machine learning & deep learning** to build intelligent, scalable web applications.  
+Passionate about **Artificial Intelligence & Machine Learning**,  
+I also leverage the **MERN stack** to integrate intelligent systems into modern, full-stack web applications.
+
 
 ---
 
@@ -51,5 +52,5 @@ Currently exploring how to bridge **full-stack development** with **machine lear
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/jai-sumanth-nekkanti-3b2425336)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/jai-sumanth-nekkanti-3b2425336)
 - LeetCode: [My LeetCode](https://leetcode.com/u/bjUXC9UDDu/)
