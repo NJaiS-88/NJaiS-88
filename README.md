@@ -35,13 +35,20 @@ Currently exploring how to bridge **full-stack development** with **machine lear
 
 ---
 
-## 📈 Contribution Graph
-[![Jai's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 📊 GitHub Stats
+![Jai's GitHub stats](https://github-readme-stats.vercel.app/api?username=NJaiS-88&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NJaiS-88&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NJaiS-88&theme=radical)
+
+---
+
+## 📈 Contribution Graph
+[![Jai's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NJaiS-88&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 📫 Connect with Me
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/jai-sumanth-nekkanti-3b2425336)
-- LeetCode: (https://leetcode.com/u/bjUXC9UDDu/)
-
+- LeetCode: [My LeetCode](https://leetcode.com/u/bjUXC9UDDu/)
