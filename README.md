@@ -37,9 +37,6 @@ I also leverage the **MERN stack** to integrate intelligent systems into modern,
 ---
 
 ## 📊 GitHub Stats
-![Jai's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NJaiS-88&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NJaiS-88&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NJaiS-88&theme=radical)
 
