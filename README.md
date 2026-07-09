@@ -51,4 +51,4 @@ I also leverage the **MERN stack** to integrate intelligent systems into modern,
 
 ## 📫 Connect with Me
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/jai-sumanth-nekkanti-3b2425336)
-- LeetCode: [My LeetCode](https://leetcode.com/u/bjUXC9UDDu/)
+- LeetCode: [My LeetCode](https://leetcode.com/u/NJaiS-88/)
